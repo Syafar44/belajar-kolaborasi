@@ -1,1 +1,2 @@
-# belajar-kolaborasi
+# Belajar-kolaborasi
+Belajar guthub sangat menyenangkan!
